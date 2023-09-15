@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+   background-image: url("https://res.cloudinary.com/dtcdcvkki/image/upload/v1694753705/pexels-pixabay-248077_qijccl.jpg"); 
+  
+}
